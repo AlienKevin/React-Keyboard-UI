@@ -32,6 +32,7 @@ class KeyboardUI extends React.Component {
       <hr/>,
       <h1>Qwerty</h1>,
       layouts.english.qwerty,
+      layouts.shuang.qwerty.foxi,
       layouts.shuang.qwerty.daniu,
       layouts.shuang.qwerty.guobiao,
       layouts.shuang.qwerty.jiandao3,

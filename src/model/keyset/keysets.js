@@ -1,4 +1,5 @@
 import qwerty from './english/qwerty/qwerty'
+import foxi from './shuang/foxi/foxi'
 import daniu from './shuang/daniu/daniu'
 import guobiao from './shuang/guobiao/guobiao'
 import jiandao3 from './shuang/jiandao3/jiandao3'
@@ -18,6 +19,7 @@ const keysets = {
     qwerty
   },
   shuang: {
+    foxi,
     daniu,
     guobiao,
     jiandao3,

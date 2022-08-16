@@ -11,6 +11,7 @@ export default $SCHEMENAME$
 `
 
 const schemenames = [
+  'foxi',
   'daniu',
   'guobiao',
   'jiandao3',

@@ -1,5 +1,6 @@
 import qwerty from './english/qwerty'
 import dvorak from './english/dvorak'
+import qwerty_foxi from './shuang/qwerty/foxi'
 import qwerty_daniu from './shuang/qwerty/daniu'
 import qwerty_guobiao from './shuang/qwerty/guobiao'
 import qwerty_jiandao3 from './shuang/qwerty/jiandao3'
@@ -33,6 +34,7 @@ const layouts = {
   },
   shuang: {
     qwerty: {
+      foxi: qwerty_foxi,
       daniu: qwerty_daniu,
       guobiao: qwerty_guobiao,
       jiandao3: qwerty_jiandao3,
